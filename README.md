@@ -5,9 +5,9 @@
 
 ## 💡 Sobre o projeto
 
-**NLW Agents** é um assistente virtual focado em jogos, criado com **HTML, CSS e JavaScript**, e aprimorado com integração à **API Gemini da Google**.
+**NLW Agents** é um assistente virtual focado em jogos clássicos da Nintendo, criado com **HTML, CSS e JavaScript**, e aprimorado com integração à **API Gemini da Google**.
 
-Com ele, você pode fazer perguntas sobre estratégias, builds e dicas de jogos como *League of Legends*, *Valorant*, entre outros — e receber respostas atualizadas e diretas, com base em IA.
+Com ele, você pode fazer perguntas sobre curiosidades, fases secretas, chefões e dicas de jogos como *Super Mario World*, *The Legend of Zelda*, entre outros — e receber respostas atualizadas e diretas, com base em IA.
 
 > “Todo agente começa com um clique... e uma pergunta certa.” 🎮🧠
 

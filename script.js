@@ -77,7 +77,7 @@ const enviarFormulario = async (event) => {
   }
 
   askButton.disabled = true
-  askButton.textContent = 'Perguntando...'
+  askButton.textContent = 'Trabalhando nisso...'
   askButton.classList.add('loading')
 
   try {
