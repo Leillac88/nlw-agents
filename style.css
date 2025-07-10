@@ -25,13 +25,13 @@ header {
 }
 
 header img {
-  width: 15rem;
+  width: 18rem;
 }
 
 main {
   max-width: 36rem;
   width: 90%;
-  margin: 3rem auto;
+  margin: 2rem auto;
 }
 
 section {
